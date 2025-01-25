@@ -31,7 +31,7 @@
 </table>
 
 ---
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=black&hide_border=true&bg_color=C0C0C0&line=0000FF&title_color=000080&color=000080)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=cyan&hide_border=true&bg_color=C0C0C0&line=0000FF&title_color=000080&color=000080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
  ## 📖 Languages
