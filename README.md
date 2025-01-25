@@ -8,14 +8,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroHTP&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=PedroHTP&theme=000080&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTP&theme=000080&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -23,7 +23,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHTP&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHTP&theme=000080&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -31,7 +31,7 @@
 </table>
 
 ---
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=EA64FA&hide_border=true&bg_color=0000&line=EB64FA&title_color=EB64FA&color=0000FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=EA64FA&hide_border=true&bg_color=000080&line=000080&title_color=000080&color=000080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
  ## 📖 Languages
