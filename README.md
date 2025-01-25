@@ -31,8 +31,10 @@
 </table>
 
 ---
+[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=EA64FA&hide_border=true&bg_color=0000&line=EB64FA&title_color=EB64FA&color=0000FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
- ## Languages
+ ## 📖 Languages
  <div display="inline-block" align="">    
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
