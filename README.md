@@ -19,14 +19,7 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHTP&theme=000080&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
+    
   </tr>
 </table>
 
