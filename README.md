@@ -1,6 +1,6 @@
 
 ## Olá, meu nome é Pedro Henrique!
----
+
 [![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=000080&hide_border=true&bg_color=C0C0C0&line=000080&title_color=000080&color=000080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
