@@ -37,17 +37,3 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>  
 
---- 
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/PedroHTP/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
