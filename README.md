@@ -1,28 +1,5 @@
 
 ## Olá, meu nome é Pedro Henrique!
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PedroHTP&theme=000080&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTP&theme=000080&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    
-  </tr>
-</table>
-
 ---
 [![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHTP&theme=react-dark&point=000080&hide_border=true&bg_color=C0C0C0&line=000080&title_color=000080&color=000080)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
